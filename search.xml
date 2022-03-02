@@ -1,37 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/02/16/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>新车必备一览</title>
+    <url>/2022/03/02/%E6%96%B0%E8%BD%A6%E5%BF%85%E5%A4%87/</url>
+    <content><![CDATA[<ul>
+<li><p>宝宝椅</p>
+</li>
+<li><p>活性炭包除甲醛</p>
+</li>
+<li><p>脚垫&#x2F;后备箱垫</p>
+<p>全包还是非全包？非全包的有官方版，但是小贵； 全包的可以定制。</p>
+</li>
+<li><p>座套</p>
+<p>需不需要？担心把座椅搞脏，但是加座套会不会影响通风透气、安全气囊弹出等。</p>
+</li>
+<li><p>贴车膜</p>
+<img src="https://pic.imgdb.cn/item/621ee144a86b6edc7453eb9a.png" style="zoom:40%;" />
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <tags>
-        <tag>init</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test1</title>
-    <url>/2022/02/18/test1/</url>
-    <content><![CDATA[<p>这是一个测试页面</p>
+<p>小鹏官方的价格1980和2680元，材质一样的。</p>
+</li>
+<li><p>后备箱收纳箱</p>
+<p>可以归纳必须小物品，<a href="https://detail.tmall.com/item.htm?id=628188742194&ali_trackid=2:mm_119209069_2518850236_111777100461:1646187668_216_462844599&union_lens=lensId:OPT@1646187665@212ab14b_0db7_17f486e578d_c1fd@01;recoveryid:a2e2e.10720394/n_1646187663203_7444887732697194_/RsuG;prepvid:a2e2e.10720394/n_1646187663203_7444887732697194_/RsuG&spm=a2e2e.10720394/n.90100100.002&pvid=27860155&ak=27860155&bxsign=tbkfG6zkOV3%20UTEbFjoM%20DNosOF4V5Db9sP4B5lCm/Yk/LGxiBDvDTud7kPL7NeC%20Bxu1Kcwi53FHGKwSZ9Gchli9tbT3rMlkBjvMwVifuydCA=">推荐链接</a></p>
+</li>
+<li><p>火源光源</p>
+<p>防风火机火柴，手电筒，野营的时候或者晚上没有光源的时候以备不时之需。</p>
+</li>
+<li><p>灭火器</p>
+</li>
+<li><p>车载手机支架</p>
+</li>
+<li><p>三脚架（应急停车使用）</p>
+</li>
+<li><p>临停号码牌</p>
+</li>
+<li><p>抽纸盒</p>
+</li>
+<li><p>挂饰（小老虎）</p>
+</li>
+<li><p>备用雨伞</p>
+</li>
+<li><p>抹布</p>
+</li>
+<li><p>矿泉水</p>
+</li>
+</ul>
 ]]></content>
       <categories>
-        <category>blog</category>
+        <category>汽车</category>
       </categories>
       <tags>
-        <tag>test</tag>
-        <tag>博客</tag>
+        <tag>新车必备</tag>
       </tags>
   </entry>
 </search>
